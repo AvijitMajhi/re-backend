@@ -1,0 +1,16 @@
+{
+  "name": "rebackend",
+  "version": "1.0.0",
+  "description": "setup project",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Avijit Majhi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  }
+}
